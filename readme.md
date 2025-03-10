@@ -1,5 +1,6 @@
 # Great Papers
 
+- [ ] 1938, ["A Symbolic Analysis of Relay and Switching Circuits"](https://dspace.mit.edu/handle/1721.1/11173) by Claude Shannon
 - [ ] 1976, ["Time Series Forecasting using ARIMA Model"](https://www.sciencedirect.com/science/article/abs/pii/S0304407681000069) by Box and Jenkins
 - [ ] 1988, ["A Theory of the Learnable"](https://www.jstor.org/stable/20012634) by Valiant
 - [x] 1987, ["Pruning Decision Trees" by J. Ross Quinlan](https://link.springer.com/article/10.1007/BF00116251)
